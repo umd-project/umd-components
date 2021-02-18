@@ -1,0 +1,24 @@
+{
+  "name": "umd-components",
+  "version": "1.0.0",
+  "description": "Module of all webcomponents supported by the UMD Project",
+  "main": "components.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/umd-project/umd-components.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/umd-project/umd-components/issues"
+  },
+  "homepage": "https://github.com/umd-project/umd-components#readme",
+  "devDependencies": {
+    "@rollup/plugin-commonjs": "^17.1.0",
+    "@rollup/plugin-json": "^4.1.0",
+    "@rollup/plugin-node-resolve": "^11.2.0"
+  }
+}
